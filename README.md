@@ -27,10 +27,9 @@ The model uses Decision Tree Classifier algorithm with accuracy_score as evaluat
 
 Built With
 
-Scikit-learn - Machine Learning Library
-Pandas - Data Manipulation Library
-Pickle - Python object serialization library
+Scikit-learn
+Pandas
+Pickle
 
 Authors
-
 Abdallah Kasrawi 
