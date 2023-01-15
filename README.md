@@ -25,11 +25,6 @@ The inference.py file contains the code for using the trained model to make pred
 Model Evaluation
 The model uses Decision Tree Classifier algorithm with accuracy_score as evaluation metric.
 
-Built With
-
-Scikit-learn
-Pandas
-Pickle
 
 Authors
 Abdallah Kasrawi 
