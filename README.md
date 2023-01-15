@@ -26,9 +26,11 @@ Model Evaluation
 The model uses Decision Tree Classifier algorithm with accuracy_score as evaluation metric.
 
 Built With
+
 Scikit-learn - Machine Learning Library
 Pandas - Data Manipulation Library
 Pickle - Python object serialization library
 
 Authors
+
 Abdallah Kasrawi 
